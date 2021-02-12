@@ -1,0 +1,8 @@
+{
+  "name": "graphQL-with-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jinho-mac/graphQL-with-fetch.git",
+  "author": "jinho",
+  "license": "MIT"
+}
